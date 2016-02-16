@@ -1,0 +1,62 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ACS712
+D current sensor
+$ENDCMP
+#
+$CMP ACS758
+D Stromsensor 100A
+$ENDCMP
+#
+$CMP ADUM3441
+D Quad channel (3_1)
+$ENDCMP
+#
+$CMP DISPLAY_BL
+D LCD with backlight
+K DEV
+$ENDCMP
+#
+$CMP LM25118
+D Buck Boost
+$ENDCMP
+#
+$CMP LM5122
+D lm5122
+K lm5122 boost
+$ENDCMP
+#
+$CMP LM5576
+D Step down
+$ENDCMP
+#
+$CMP MAX7456_DS
+D OSD
+$ENDCMP
+#
+$CMP RD-0512D
+D RECOM Power RD-0512D
+$ENDCMP
+#
+$CMP TPS54260
+K TPS54260
+$ENDCMP
+#
+$CMP TPS54531
+D Stepdown
+$ENDCMP
+#
+$CMP TPS7A4901
+D TPS7A4901
+K TPS7A4901
+$ENDCMP
+#
+$CMP TPS7A7200RGT
+D programmierbarer LDO
+$ENDCMP
+#
+$CMP TX5823
+D Video Sender 200mW
+$ENDCMP
+#
+#End Doc Library
